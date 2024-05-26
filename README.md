@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dariovetrano03
-- 👀 I’m interested in aerospace engineering and solar physics!
-- 🌱 I’m currently learning to make things that do not explode
+- 👀 I’m interested in Aerospace engineering and Solar physics!
+- 🌱 I’m currently involved in founding a new student team on Urban Air Mobility
 - 💞️ I’m looking to collaborate on everything interests me and you :)
 - 📫 How to reach me (student mail): dario.vetrano@studenti.polito.it
 
