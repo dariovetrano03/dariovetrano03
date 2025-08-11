@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @dariovetrano03
-- 👀 I’m interested in Aerospace engineering and Solar physics!
-- 🌱 I’m currently involved in founding a new student team on Urban Air Mobility
-- 💞️ I’m looking to collaborate on everything interests me and you :)
+- 👀 I’m an Aerospace engineering graduate student in Aerogasdynamics
 - 📫 How to reach me (student mail): dario.vetrano@studenti.polito.it
 
 <!---
